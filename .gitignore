@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 
+text_features.txt
 crawl-300d-2M.vec
 infersent1.pkl
 infersent2.pkl
