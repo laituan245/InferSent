@@ -1,3 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
 crawl-300d-2M.vec
 infersent1.pkl
 infersent2.pkl
